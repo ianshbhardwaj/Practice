@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9781ddae-6f92-47dc-b434-19349e376fa7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/StringFormatting/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/StringFormatting2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Account/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Account/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Car/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/accountconstructorthis/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/accountconstructorthis/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/creditcard/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/creditcard/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/pojo/LPAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/pojo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/javalangObject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/Worker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oRZ5F8uuXIbVmdhc8EBNVJFbhE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Codes/Opps/src/main/java/org/inheritance/accountconstructorthis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Codes/Opps/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codes\Opps\src\main\java\org\inheritance\accountconstructorthis" />
+      <recent name="D:\Codes\Opps\src\main\java\org\inheritance" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.StringFormatting2.Main" />
+      <module name="Opps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.StringFormatting2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9781ddae-6f92-47dc-b434-19349e376fa7" name="Changes" comment="" />
+      <created>1730834166531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730834166531</updated>
+      <workItem from="1730834167616" duration="2665000" />
+      <workItem from="1734106864789" duration="646000" />
+      <workItem from="1735387452846" duration="4192000" />
+      <workItem from="1735606914302" duration="1592000" />
+      <workItem from="1735789262195" duration="1307000" />
+      <workItem from="1735879317969" duration="3051000" />
+      <workItem from="1735994657612" duration="4958000" />
+      <workItem from="1736396571980" duration="3531000" />
+      <workItem from="1736743348260" duration="2261000" />
+      <workItem from="1737070341860" duration="7699000" />
+      <workItem from="1737865037479" duration="3568000" />
+      <workItem from="1740226075783" duration="75000" />
+      <workItem from="1741633933201" duration="210000" />
+      <workItem from="1741730857556" duration="7573000" />
+      <workItem from="1741881072318" duration="2036000" />
+      <workItem from="1742338559363" duration="2529000" />
+      <workItem from="1742393552753" duration="1549000" />
+      <workItem from="1742517426185" duration="91000" />
+      <workItem from="1742517632241" duration="2024000" />
+      <workItem from="1742662139883" duration="313000" />
+      <workItem from="1742852160088" duration="302000" />
+      <workItem from="1742853278111" duration="1756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/inheritance/Car/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/inheritance/pojo/Student.java</url>
+          <line>47</line>
+          <properties class="org.inheritance.pojo.Student" method="setDateofBirth">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
