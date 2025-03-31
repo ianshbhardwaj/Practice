@@ -4,37 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9781ddae-6f92-47dc-b434-19349e376fa7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/StringFormatting/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/StringFormatting2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Account/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Account/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Car/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/accountconstructorthis/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/accountconstructorthis/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/creditcard/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/creditcard/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/pojo/LPAStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/pojo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/pojo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/javalangObject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/Worker.java" afterDir="false" />
+    <list default="true" id="9781ddae-6f92-47dc-b434-19349e376fa7" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/opp/StringFormatting2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/opp/StringFormatting3/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/opp/StringFormatting4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/opp/StringFormatting4/StringOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/StringFormatting/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/StringFormatting/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/StringFormatting2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/Account/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/Account/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/Account/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/Account/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/Car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/Car/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/Car/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/accountconstructorthis/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/accountconstructorthis/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/accountconstructorthis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/accountconstructorthis/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/creditcard/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/creditcard/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/creditcard/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/creditcard/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/pojo/LPAStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/pojo/LPAStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/pojo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/pojo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance/pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance/pojo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/javalangObject/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/javalangObject/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/part1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/part1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/part1/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/part1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/part1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/worker/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/worker/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/worker/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/worker/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inheritance1/worker/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opp/inheritance1/worker/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +67,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.StringMethods.executor": "Run",
+    "Application.org.StringFormatting4.Main.executor": "Run",
+    "Application.org.opp.inheritance.Account.Main.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-GitHub Copilot": "GitHub Copilot",
+    "Notification.DoNotAsk-GitHub Copilot": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -100,7 +103,7 @@
       <module name="Opps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.StringFormatting2.*" />
+          <option name="PATTERN" value="org.StringFormatting3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,25 +154,44 @@
       <workItem from="1742517632241" duration="2024000" />
       <workItem from="1742662139883" duration="313000" />
       <workItem from="1742852160088" duration="302000" />
-      <workItem from="1742853278111" duration="1756000" />
+      <workItem from="1742853278111" duration="2086000" />
+      <workItem from="1742856463379" duration="1466000" />
+      <workItem from="1742945581761" duration="2351000" />
+      <workItem from="1742985889402" duration="2351000" />
+      <workItem from="1743084299686" duration="854000" />
+      <workItem from="1743114209181" duration="2979000" />
+      <workItem from="1743458095391" duration="496000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1742856184740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742856184740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/inheritance/Car/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/opp/inheritance/Car/Main.java</url>
           <line>10</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/inheritance/pojo/Student.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/opp/inheritance/pojo/Student.java</url>
           <line>47</line>
-          <properties class="org.inheritance.pojo.Student" method="setDateofBirth">
+          <properties class="org.opp.inheritance.pojo.Student">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
