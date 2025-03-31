@@ -4,6 +4,7 @@ package org.opp.inheritance.Car;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Car Class");
         Car car = new Car();
         car.setMake("Porshe");
        // car.setMake("Meserati");
